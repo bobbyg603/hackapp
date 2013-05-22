@@ -1,12 +1,8 @@
 {
-  "name": "hackapp",
-  "version": "0.0.0",
-  "description": "Team Green",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/jmanero/hackapp.git"
-  },
-  "author": "Dyn Hackademy",
+  "name": "MyTyme",
+  "version": "0.0.1",
+  "description": "An interactive calendar with shared events and email notification groups",
+  "author": "Green",
   "contributors" : [ {
   	"name" : "Bobby Galli",
   	"email" : "bobbyg603@gmail.com"
@@ -25,6 +21,6 @@
   "license": "MIT",
   "repository" : {
   	"type" : "git",
-  	"url" : "git://github.com/jmanero/hackapp.git"
+  	"url" : "git://github.com/bobbyg603/hackapp.git"
   }
 }
